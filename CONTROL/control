@@ -1,0 +1,7 @@
+Package: enigma2-tfksat-panel-test
+Version: v1.0
+Description: tfksat_panel_test
+Maintainer: tfksat_panel_test
+Architecture: all
+Priority: optional
+Section: base
